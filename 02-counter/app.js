@@ -1,3 +1,8 @@
+//-----------------------------------------------------
+// Copyright (c) 2023. All rights reserved.
+// Made with ♥ by Houssem Saiah.
+//-----------------------------------------------------
+
 // set initial count
 let count = 0;
 
