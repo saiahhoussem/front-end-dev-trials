@@ -1,3 +1,8 @@
+//-----------------------------------------------------
+// Copyright (c) 2023. All rights reserved.
+// Made with ♥ by Houssem Saiah.
+//-----------------------------------------------------
+
 // classList - shows/gets all classes
 // contains - checks classList for specific class
 // add - add class
