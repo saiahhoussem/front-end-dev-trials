@@ -1,3 +1,8 @@
+//------------------------------------------------------
+// Copyright (c) 2024. All rights reserved.
+// Made with ♥ by Houssem Saiah.
+//------------------------------------------------------
+
 const url = 'https://icanhazdadjoke.com/';
 
 const btn = document.querySelector('.btn');
